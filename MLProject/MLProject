@@ -1,0 +1,5 @@
+name: bitcoin-project
+
+entry_points:
+  main:
+    command: "python modelling.py"
